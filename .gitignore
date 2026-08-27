@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite Database (generated at runtime)
+*.db
+IMS/*.db
+
+# OS metadata
+.DS_Store
+Thumbs.db
